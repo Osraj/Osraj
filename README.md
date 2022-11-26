@@ -5,9 +5,6 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] Header)
 [![MasterHead](https://pbs.twimg.com/profile_banners/774519978179584001/1566690078/1080x360)](https://beacons.ai/osraj)
 
-[//]: # ([Block] General Sentence about me)
-<h3 align="center">I'm Osamah Sarraj, but you can call me Osraj.<br /> passionate programmer who wants to make the world a better place ^^</h3>
-
 [//]: # ([Block] programmer gif)
 <img align="left" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -17,6 +14,7 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] About me)
 - 😎 I'm [Osamah Sarraj](https://beacons.ai/osraj), but you can call me Osraj
 - 📚 currently studying at **KSU**, majoring in **Computer Science**
+- 😋 I'm a passionate programmer who wants to make the world a better place
 - 😐 I have a **love/hate** relationship with **Programming**
 - 💬 Ask me about anything, I am happy to help
 
