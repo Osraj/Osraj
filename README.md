@@ -12,7 +12,7 @@ This is my GitHub Profile Page README.md
 <h3 align="center">I'm Osamah Sarraj, but you can call me Osraj.<br /> passionate programmer who wants to make the world a better place ^^</h3>
 
 [//]: # ([Block] programmer gif)
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="left" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 [//]: # ([Block] GitHub Profile Views)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osraj&label=Profile%20views&color=0e75b6&style=flat" alt="osraj" /> </p>
