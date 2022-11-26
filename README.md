@@ -6,14 +6,13 @@ This is my GitHub Profile Page README.md
 [![MasterHead](https://pbs.twimg.com/profile_banners/774519978179584001/1566690078/1080x360)](https://beacons.ai/osraj)
 
 [//]: # ([Block] Greating)
-<h1 align="center">Hi 👋, I'm Osraj</h1> 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 [//]: # ([Block] General Sentence about me)
-<h3 align="center">A passionate programmer who wants to make the world a better place ^^</h3>
+<h3 align="center">I'm Osamah Sarraj, but you can call me Osraj.<br /> passionate programmer who wants to make the world a better place ^^</h3>
 
 [//]: # ([Block] programmer gif)
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 
 [//]: # ([Block] GitHub Profile Views)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osraj&label=Profile%20views&color=0e75b6&style=flat" alt="osraj" /> </p>
