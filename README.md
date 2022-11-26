@@ -40,7 +40,7 @@ This is my GitHub Profile Page README.md
 
 [//]: # ([Block] Languages and Tools)
 <div>
-**languages and tools:**
+<h3 align="left">Languages and Tools:</h3>
 
 <code><img height="30" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/Python_Logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/AutoHotKey_Logo.png"></code>
