@@ -14,15 +14,23 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] programmer gif)
 <img align="left" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+
+[//]: # ([Block] About me)
+- 😎 I'm [Osamah Sarraj](https://beacons.ai/osraj), but you can call me Osraj
+- 📚 currently studying at **KSU**, majoring in **Computer Science**
+- 😐 I have a **love/hate** relationship with **Programming**
+- 💬 Ask me about anything, I am happy to help
+
+<br />
+<br />
+<br />
+
 [//]: # ([Block] GitHub Profile Views)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osraj&label=Profile%20views&color=0e75b6&style=flat" alt="osraj" /> </p>
-
 
 [//]: # ([Block] Twitter Followers counter)
 <p align="left"> <a href="https://twitter.com/osraj_s" target="blank"><img src="https://img.shields.io/twitter/follow/osraj_s?logo=twitter&style=for-the-badge" alt="osraj_s" /></a> </p>
 
-[//]: # ([Block] About me)
-- 📚 I’m currently studying at **KSU**
 
 [//]: # ([Block] Social Media)
 <h3 align="left">Connect with me:</h3>
@@ -33,6 +41,7 @@ This is my GitHub Profile Page README.md
 <a href="https://www.youtube.com/@osraj_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="osraj" height="30" width="40" /></a>
 <a href="https://discord.gg/d4jQXAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d4jQXAQ" height="30" width="40" /></a>
 </p>
+
 
 [//]: # ([Block] Languages and Tools)
 <h3 align="left">Languages and Tools:</h3>
