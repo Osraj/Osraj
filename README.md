@@ -17,8 +17,6 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] GitHub Profile Views)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osraj&label=Profile%20views&color=0e75b6&style=flat" alt="osraj" /> </p>
 
-[//]: # ([Block] My Trophies)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osraj" alt="osraj" /></a> </p>
 
 [//]: # ([Block] Twitter Followers counter)
 <p align="left"> <a href="https://twitter.com/osraj_s" target="blank"><img src="https://img.shields.io/twitter/follow/osraj_s?logo=twitter&style=for-the-badge" alt="osraj_s" /></a> </p>
@@ -45,6 +43,9 @@ This is my GitHub Profile Page README.md
 
 [//]: # ([Block] GitHub Stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&locale=en" alt="osraj" /></p>
+
+[//]: # ([Block] My Trophies)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osraj" alt="osraj" /></a> </p>
 
 [//]: # ([Block] Streak Stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osraj&" alt="osraj" /></p>
