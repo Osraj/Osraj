@@ -44,14 +44,14 @@ This is my GitHub Profile Page README.md
 <summary><b> Some Fun Statistics </b></summary>
 <div align="center">
 
-[//]: # ([Block] GitHub Stats)
-<img src='https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="center" alt="GitHub_Status" />
-
 [//]: # ([Block] Most Used Languages)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osraj&theme=tokyonight&hide_langs_below=5" align="center" alt="GitHub_Top_Languages" />
 
 [//]: # ([Block] Streak Stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osraj&theme=tokyonight" alt="GitHub_Streak" />
+
+[//]: # ([Block] GitHub Stats)
+<img src='https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="center" alt="GitHub_Status" />
 
 [//]: # ([Block] My Trophies)
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=osraj&theme=onedark&row=1&column=6)" alt="GitHub_Trophies" /></a>
