@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-
-<h1 align="center">Hi 👋, I'm Osraj</h1>
+[![MasterHead](https://pbs.twimg.com/profile_banners/774519978179584001/1566690078/1080x360)](https://beacons.ai/osraj)
+<h1 align="center">Hi 👋, I'm Osraj</h1> 
 <h3 align="center">A passionate programmer who wants to make the world a better place ^^</h3>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osraj&label=Profile%20views&color=0e75b6&style=flat" alt="osraj" /> </p>
 
