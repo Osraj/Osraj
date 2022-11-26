@@ -5,15 +5,14 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] Header)
 [![MasterHead](https://pbs.twimg.com/profile_banners/774519978179584001/1566690078/1080x360)](https://beacons.ai/osraj)
 
-[//]: # ([Block] Greating)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 [//]: # ([Block] General Sentence about me)
 <h3 align="center">I'm Osamah Sarraj, but you can call me Osraj.<br /> passionate programmer who wants to make the world a better place ^^</h3>
 
 [//]: # ([Block] programmer gif)
 <img align="left" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+[//]: # ([Block] Greating)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 [//]: # ([Block] About me)
 - 😎 I'm [Osamah Sarraj](https://beacons.ai/osraj), but you can call me Osraj
