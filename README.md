@@ -5,8 +5,6 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] Header)
 [![MasterHead](https://pbs.twimg.com/profile_banners/774519978179584001/1566690078/1080x360)](https://beacons.ai/osraj)
 
-<div align="left">
-
 [//]: # ([Block] programmer gif)
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/programmer.gif">
 
@@ -23,8 +21,6 @@ This is my GitHub Profile Page README.md
 
 [//]: # ([Block] GitHub Profile Views)
 <p> <img src="https://komarev.com/ghpvc/?username=osraj&label=Profile%20views&color=0e75b6&style=flat" alt="osraj" /> </p>
-
-</div>
 
 [//]: # ([Block] Twitter Followers counter)
 <p align="left"> <a href="https://twitter.com/osraj_s" target="blank"><img src="https://img.shields.io/twitter/follow/osraj_s?logo=twitter&style=for-the-badge" alt="osraj_s" /></a> </p>
@@ -43,26 +39,25 @@ This is my GitHub Profile Page README.md
 </div>
 
 
-<!-- start statics fun section -->
+[//]: # ([Block] Some Fun Statistics)
 <details>
-<summary><b> Some Statistics Fun </b></summary>
+<summary><b> Some Fun Statistics </b></summary>
 <div align="center">
 
 [//]: # ([Block] GitHub Stats)
-<img src='https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="left" alt="GitHub_Status" />
+<img src='https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="center" alt="GitHub_Status" />
 
 [//]: # ([Block] Most Used Languages)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osraj&theme=tokyonight&hide_langs_below=5" align="left" alt="GitHub_Top_Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osraj&theme=tokyonight&hide_langs_below=5" align="center" alt="GitHub_Top_Languages" />
 
 [//]: # ([Block] Streak Stats)
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=osraj&theme=tokyonight" alt="GitHub_Streak" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osraj&theme=tokyonight" alt="GitHub_Streak" />
 
 [//]: # ([Block] My Trophies)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osraj&theme=onedark&row=1&column=6)" alt="GitHub_Trophies" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=osraj&theme=onedark&row=1&column=6)" alt="GitHub_Trophies" /></a>
 
 [//]: # ([Block] GitHub Contribution Graph)
 <img src="https://activity-graph.herokuapp.com/graph?username=osraj&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub_Contribution_Graph ">
 
 </div>
 </details>
-<!-- end statics fun section -->
