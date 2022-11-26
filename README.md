@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/osraj_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osraj_s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamah sarraj" height="30" width="40" /></a>
 <a href="https://instagram.com/osraj_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osraj_s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/osraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="osraj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@osraj_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="osraj" height="30" width="40" /></a>
 <a href="https://discord.gg/d4jQXAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d4jQXAQ" height="30" width="40" /></a>
 </p>
 
