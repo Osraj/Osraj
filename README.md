@@ -30,8 +30,8 @@ This is my GitHub Profile Page README.md
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/osraj_s/" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/instagram_logo.png" width="30" height="30" alt="Osraj_Instagram" /></a>
-<a href="https://twitter.com/osraj_s" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/twitter_logo.png" height="30" width="30" alt="Osraj_Twitter" /></a>
+<a href="https://www.instagram.com/osamah_sarraj/" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/instagram_logo.png" width="30" height="30" alt="Osraj_Instagram" /></a>
+<a href="https://twitter.com/osamah_sarraj" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/twitter_logo.png" height="30" width="30" alt="Osraj_Twitter" /></a>
 <a href="https://www.youtube.com/@osraj_tech" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/youtube_logo.png" width="30" height="30" alt="Osraj_YouTube" /></a>
 <a href="https://discord.gg/d4jQXAQ" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/discord_logo.png" width="30" height="30" alt="Osraj_Discord" /></a>
 <a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/linkedin_logo.png" width="30" height="30" alt="Osraj_LinkedIn" /></a>
