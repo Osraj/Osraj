@@ -6,7 +6,7 @@ This is my GitHub Profile Page README.md
 [![MasterHead](https://pbs.twimg.com/profile_banners/774519978179584001/1566690078/1080x360)](https://beacons.ai/osraj)
 
 [//]: # ([Block] programmer gif)
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/programmer.gif">
+<img align="left" alt="Coding" width="400" src="Assets/programmer.gif">
 
 [//]: # ([Block] Greating)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. </h1>
@@ -30,11 +30,11 @@ This is my GitHub Profile Page README.md
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/osraj_s/" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/instagram_logo.png" width="30" height="30" alt="Osraj_Instagram" /></a>
-<a href="https://twitter.com/osraj_s" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/twitter_logo.png" height="30" width="30" alt="Osraj_Twitter" /></a>
-<a href="https://www.youtube.com/@osraj_tech" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/youtube_logo.png" width="30" height="30" alt="Osraj_YouTube" /></a>
-<a href="https://discord.gg/d4jQXAQ" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/discord_logo.png" width="30" height="30" alt="Osraj_Discord" /></a>
-<a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/linkedin_logo.png" width="30" height="30" alt="Osraj_LinkedIn" /></a>
+<a href="https://www.instagram.com/osraj_s/" target="blank"><img src="Assets/instagram_logo.png" width="30" height="30" alt="Osraj_Instagram" /></a>
+<a href="https://twitter.com/osraj_s" target="blank"><img src="Assets/twitter_logo.png" height="30" width="30" alt="Osraj_Twitter" /></a>
+<a href="https://www.youtube.com/@osraj_tech" target="blank"><img src="Assets/youtube_logo.png" width="30" height="30" alt="Osraj_YouTube" /></a>
+<a href="https://discord.gg/d4jQXAQ" target="blank"><img src="Assets/discord_logo.png" width="30" height="30" alt="Osraj_Discord" /></a>
+<a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img src="Assets/linkedin_logo.png" width="30" height="30" alt="Osraj_LinkedIn" /></a>
 </p>
 </div>
 
@@ -42,11 +42,11 @@ This is my GitHub Profile Page README.md
 <div>
 <h3 align="left">Languages and Tools:</h3>
 
-<code><img height="30" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/Python_Logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/AutoHotKey_Logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/Java_Logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/JavaScript_Logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Osraj/Osraj/main/Assets/Git_Logo.png"></code>
+<code><img height="30" src="Assets/Python_Logo.png"></code>
+<code><img height="30" src="Assets/AutoHotKey_Logo.png"></code>
+<code><img height="30" src="Assets/Java_Logo.png"></code>
+<code><img height="30" src="Assets/JavaScript_Logo.png"></code>
+<code><img height="30" src="Assets/Git_Logo.png"></code>
 
 </div>
 
