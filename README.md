@@ -82,3 +82,10 @@ This is my GitHub Profile Page README.md
 
 </p>
 </details>
+
+---
+
+[//]: # ([Block] Snake Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Osraj/Osraj/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
