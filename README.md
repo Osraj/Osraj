@@ -35,16 +35,16 @@ This is my GitHub Profile Page README.md
 ---
 
 [//]: # ([Block] Social Media)
-<div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/osraj_s/" target="blank"><img src="Assets/instagram_logo.png" width="30" height="30" alt="Osraj_Instagram" /></a>
-<a href="https://twitter.com/osraj_s" target="blank"><img src="Assets/twitter_logo.png" height="30" width="30" alt="Osraj_Twitter" /></a>
-<a href="https://www.youtube.com/@osraj_tech" target="blank"><img src="Assets/youtube_logo.png" width="30" height="30" alt="Osraj_YouTube" /></a>
-<a href="https://discord.gg/d4jQXAQ" target="blank"><img src="Assets/discord_logo.png" width="30" height="30" alt="Osraj_Discord" /></a>
-<a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img src="Assets/linkedin_logo.png" width="30" height="30" alt="Osraj_LinkedIn" /></a>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/osraj_s" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" title="X (Twitter)" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/osraj_s/" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" title="Instagram" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@osraj_tech" target="blank"><img src="Assets/youtube_logo.png" width="48" height="48" title="YouTube" alt="YouTube" /></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/d4jQXAQ" target="blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" title="Discord" alt="Discord" /></a>
 </p>
-</div>
+
+---
 
 [//]: # ([Block] Languages and Tools)
 <div>
