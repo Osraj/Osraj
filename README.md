@@ -62,24 +62,23 @@ This is my GitHub Profile Page README.md
 ---
 
 [//]: # ([Block] Some Fun Statistics)
-<details>
-<summary><b> Some Fun Statistics </b></summary>
-<div align="center">
-
-[//]: # ([Block] Most Used Languages)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osraj&theme=tokyonight&hide_langs_below=5" align="center" alt="GitHub_Top_Languages" />
+<details open>
+<summary><b>GitHub Stats</b></summary>
+<br>
+<p align="center">
 
 [//]: # ([Block] Streak Stats)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osraj&theme=tokyonight" alt="GitHub_Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osraj&theme=tokyonight&hide_border=true" alt="GitHub_Streak" />
 
-[//]: # ([Block] GitHub Stats)
-<img src='https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align="center" alt="GitHub_Status" />
+[//]: # ([Block] GitHub Stats + Top Languages side by side)
+<img src="https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub_Status" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osraj&theme=tokyonight&hide_langs_below=5&hide_border=true&layout=compact" alt="GitHub_Top_Languages" width="40%" />
 
 [//]: # ([Block] My Trophies)
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=osraj&theme=onedark&row=1&column=6)" alt="GitHub_Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osraj&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub_Trophies" /></a>
 
 [//]: # ([Block] GitHub Contribution Graph)
-<img src="https://activity-graph.herokuapp.com/graph?username=osraj&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub_Contribution_Graph ">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=osraj&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub_Contribution_Graph">
 
-</div>
+</p>
 </details>
