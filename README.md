@@ -5,19 +5,24 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] Header)
 [![MasterHead](https://pbs.twimg.com/profile_banners/774519978179584001/1566690078/1080x360)](https://beacons.ai/osraj)
 
-[//]: # ([Block] programmer gif)
-<img align="left" alt="Coding" width="400" src="Assets/programmer.gif">
-
-[//]: # ([Block] Greating)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. </h1>
-
-[//]: # ([Block] About me)
-- 😎 I'm [Osamah Sarraj](https://beacons.ai/osraj), but you can call me Osraj
-- 📚 currently studying at **KSU**, majoring in **Computer Science**
-- 😋 I'm a passionate programmer who wants to make the world a better place
-- 😐 I have a **love/hate** relationship with **Programming**
-- 💬 Ask me about anything, I am happy to help
-
+[//]: # ([Block] programmer gif + About me)
+<table>
+  <tr>
+    <td width="400">
+      <img alt="Coding" width="400" src="Assets/programmer.gif">
+    </td>
+    <td>
+      <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+      <ul>
+        <li>I'm <a href="https://beacons.ai/osraj">Osamah Sarraj</a>, but you can call me <b>Osraj</b></li>
+        <li>Currently studying at <b>KSU</b>, majoring in <b>Computer Science</b></li>
+        <li>A passionate programmer who wants to make the world a better place</li>
+        <li>I have a <b>love/hate</b> relationship with <b>Programming</b></li>
+        <li>Ask me about anything, I am happy to help</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 [//]: # ([Block] GitHub Profile Views)
 <p> <img src="https://komarev.com/ghpvc/?username=osraj&label=Profile%20views&color=0e75b6&style=flat" alt="osraj" /> </p>
