@@ -47,16 +47,19 @@ This is my GitHub Profile Page README.md
 ---
 
 [//]: # ([Block] Languages and Tools)
-<div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" title="Python" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" title="Java" alt="Java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" title="Git" alt="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
+  <img src="Assets/AutoHotKey_Logo.png" height="48" title="AutoHotKey" alt="AutoHotKey" />
+</p>
 
-<code><img height="30" src="Assets/Python_Logo.png"></code>
-<code><img height="30" src="Assets/AutoHotKey_Logo.png"></code>
-<code><img height="30" src="Assets/Java_Logo.png"></code>
-<code><img height="30" src="Assets/JavaScript_Logo.png"></code>
-<code><img height="30" src="Assets/Git_Logo.png"></code>
-
-</div>
+---
 
 [//]: # ([Block] Some Fun Statistics)
 <details>
