@@ -48,18 +48,16 @@ This is my GitHub Profile Page README.md
 
 [//]: # ([Block] Languages and Tools)
 <h3 align="center">Languages and Tools</h3>
-<div align="center">
-  <table><tr>
-    <td><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" title="Python" alt="Python" /></td>
-    <td><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" title="Java" alt="Java" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" title="JavaScript" alt="JavaScript" /></td>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" title="HTML5" alt="HTML5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" title="CSS3" alt="CSS3" /></td>
-    <td><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" title="Git" alt="Git" /></td>
-    <td><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" title="GitHub" alt="GitHub" /></td>
-    <td><img src="Assets/AutoHotKey_Logo.png" height="48" title="AutoHotKey" alt="AutoHotKey" /></td>
-  </tr></table>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
+  <img src="Assets/AutoHotKey_Logo.png" width="48" height="48" title="AutoHotKey" alt="AutoHotKey" />
+</p>
 
 ---
 
