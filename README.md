@@ -13,10 +13,10 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] Programmer gif + About me side by side)
 <table>
   <tr>
-    <td width="400">
-      <img alt="Coding" width="400" src="Assets/programmer.gif">
+    <td width="40%">
+      <img alt="Coding" width="100%" src="Assets/programmer.gif">
     </td>
-    <td>
+    <td width="60%">
       <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
       <ul>
         <li>I'm <a href="https://beacons.ai/osraj">Osamah Sarraj</a>, but you can call me <b>Osraj</b></li>
