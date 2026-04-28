@@ -36,7 +36,15 @@ This is my GitHub Profile Page README.md
 
 [//]: # ([Block] Social Media)
 <h3 align="center">Connect with me</h3>
-<p align="center"><a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://twitter.com/osraj_s" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" title="X (Twitter)" alt="X" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/osraj_s/" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" title="Instagram" alt="Instagram" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@osraj_tech" target="blank"><img src="Assets/youtube_logo.png" width="48" height="48" title="YouTube" alt="YouTube" /></a>&nbsp;&nbsp;<a href="https://discord.gg/d4jQXAQ" target="blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" title="Discord" alt="Discord" /></a></p>
+<div align="center">
+  <table><tr>
+    <td><a href="https://linkedin.com/in/osamah-sarraj" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" title="LinkedIn" alt="LinkedIn" /></a></td>
+    <td><a href="https://twitter.com/osraj_s" target="blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" title="X (Twitter)" alt="X" /></a></td>
+    <td><a href="https://www.instagram.com/osraj_s/" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" title="Instagram" alt="Instagram" /></a></td>
+    <td><a href="https://www.youtube.com/@osraj_tech" target="blank"><img src="Assets/youtube_logo.png" width="48" height="48" title="YouTube" alt="YouTube" /></a></td>
+    <td><a href="https://discord.gg/d4jQXAQ" target="blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" title="Discord" alt="Discord" /></a></td>
+  </tr></table>
+</div>
 
 ---
 
