@@ -7,7 +7,7 @@ This is my GitHub Profile Page README.md
 
 [//]: # ([Block] Typing SVG)
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Computer+Science+Student+%40+KSU;Passionate+Programmer;Always+Learning+New+Things;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=AI+Engineer+%40+solutions+by+stc;Passionate+Programmer;Always+Learning+New+Things;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 [//]: # ([Block] Programmer gif + About me side by side)
@@ -20,7 +20,7 @@ This is my GitHub Profile Page README.md
       <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
       <ul>
         <li>I'm <a href="https://beacons.ai/osraj">Osamah Sarraj</a>, but you can call me <b>Osraj</b></li>
-        <li>Currently studying at <b>KSU</b>, majoring in <b>Computer Science</b></li>
+        <li>Working as an <b>AI Engineer</b> at <b>solutions by stc</b></li>
         <li>A passionate programmer who wants to make the world a better place</li>
         <li>I have a <b>love/hate</b> relationship with <b>Programming</b></li>
         <li>Ask me about anything, I am happy to help</li>
