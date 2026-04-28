@@ -14,7 +14,7 @@ This is my GitHub Profile Page README.md
 <table>
   <tr>
     <td width="40%">
-      <img alt="Coding" width="100%" src="Assets/programmer.gif">
+      <img alt="Coding" width="498" height="312" src="Assets/programmer.gif">
     </td>
     <td width="60%">
       <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
