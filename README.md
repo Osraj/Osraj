@@ -49,14 +49,14 @@ This is my GitHub Profile Page README.md
 [//]: # ([Block] Languages and Tools)
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
-  <img src="Assets/AutoHotKey_Logo.png" width="48" height="48" title="AutoHotKey" alt="AutoHotKey" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AutoHotKey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AutoHotKey" />
 </p>
 
 ---
