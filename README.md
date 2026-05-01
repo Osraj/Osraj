@@ -125,8 +125,8 @@ This is my GitHub Profile Page README.md
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osraj&theme=tokyonight&hide_border=true" alt="GitHub_Streak" />
 
 [//]: # ([Block] GitHub Stats + Top Languages side by side)
-<img src="https://github-readme-stats.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub_Status" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osraj&theme=tokyonight&hide_langs_below=5&hide_border=true&layout=compact" alt="GitHub_Top_Languages" width="40%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=osraj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub_Status" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=osraj&theme=tokyonight&hide_langs_below=5&hide_border=true&layout=compact" alt="GitHub_Top_Languages" width="40%" />
 
 [//]: # ([Block] My Trophies)
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osraj&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub_Trophies" /></a>
